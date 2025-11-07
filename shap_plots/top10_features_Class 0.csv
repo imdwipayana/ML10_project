@@ -1,0 +1,8 @@
+Feature,Mean|SHAP|
+num__CH2O,0.16235144
+num__Age,0.15762402
+num__FAF,0.15682313
+num__Height,0.14547798
+num__NCP,0.13639079
+num__Weight,0.12558243
+num__FCVC,0.12209106
